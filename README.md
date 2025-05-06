@@ -9,10 +9,15 @@ Ushbu ilova foydalanuvchilarga qulay interfeys orqali mahsulotlarni ko‘rish, q
 ---
 ## ✨ Asosiy xususiyatlar
 ✅ Mahsulotlar ro‘yxatini ko‘rish va tafsilotlarini o‘rganish
+
 ✅ Kategoriyalar bo‘yicha mahsulotlarni filtrlash
+
 ✅ Qidiruv funksiyasi orqali kerakli mahsulotni topish
+
 ✅ Savatchaga mahsulot qo‘shish va xarid qilish imkoniyati
+
 ✅ Foydalanuvchi profilini boshqarish va sozlamalarni o‘zgartirish
+
 ✅ Mahsulotlar haqida sharhlar va reytinglarni ko‘rish
 
 ---
