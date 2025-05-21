@@ -56,10 +56,6 @@ Ushbu ilova foydalanuvchilarga qulay interfeys orqali mahsulotlarni ko‘rish, q
   <img src="https://github.com/Khonsaid/Texnomart-clone-flutter/blob/main/location.png" width="200" />
   <img src="https://github.com/Khonsaid/Texnomart-clone-flutter/blob/main/map.png" width="200" />
 </p>
----			
-
-## 💾 Yuklab olish
-Ilovaning so‘nggi versiyasini bu yerdan yuklab oling: [Download APK](#)
 
 ---
 
